@@ -51,9 +51,9 @@ setInterval(function () {
     var i = 0;
     var e = document.getElementsByClassName("qi72231t n3hqoq4p r86q59rh b3qcqh3k fq87ekyn fsf7x5fv s5oniofx m8h3af8h l7ghb35v kjdc1dyq kmwttqpk cr00lzj9 rn8ck1ys s3jn8y49 f14ij5to l3ldwz01 icdlwmnq i85zmo3j qmqpeqxj e7u6y3za qwcclf47 nmlomj2f frfouenu bonavkto djs4p424 r7bn319e bdao358l alzwoclg jcxyg2ei srn514ro oxkhqvkx rl78xhln nch0832m om3e55n1 jvc6uz2b g90fjkqk nu7423ey");
     e[i].click();
-    var e = document.getElementsByClassName("");
+    var e = document.getElementsByClassName("i85zmo3j lpqsk9lh alzwoclg jcxyg2ei tpvapw4o");
     e[i].click();
-    var e = document.getElementsByClassName("");
+    var e = document.getElementsByClassName("qi72231t nu7423ey n3hqoq4p r86q59rh b3qcqh3k fq87ekyn fsf7x5fv s5oniofx m8h3af8h l7ghb35v kjdc1dyq kmwttqpk srn514ro oxkhqvkx rl78xhln nch0832m cr00lzj9 rn8ck1ys s3jn8y49 o9erhkwx dzqi5evh hupbnkgi hvb2xoa8 f14ij5to l3ldwz01 icdlwmnq bdao358l fxk3tzhb cqf1kptm jcxyg2ei om3e55n1 mfclru0v");
     e[i].click();
 
 
